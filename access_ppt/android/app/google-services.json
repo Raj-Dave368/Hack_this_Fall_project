@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "299533285612",
+    "firebase_url": "https://handle-ppt.firebaseio.com",
+    "project_id": "handle-ppt",
+    "storage_bucket": "handle-ppt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299533285612:android:4b2fb08ab32f373e9c4dc9",
+        "android_client_info": {
+          "package_name": "omns.accessppt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299533285612-8anmd2domc8rb7lnlbujvq1lu82ud872.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdY_XuoHYPpVLwBap--pKdW0IWNnabWjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299533285612-8anmd2domc8rb7lnlbujvq1lu82ud872.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
